@@ -54,4 +54,4 @@ Trabalhei com um banco de dados que armazena os clientes e os pedidos realizados
 
 ## 🎯 Conclusão
 Este desafio testou e aprimorou minhas habilidades em SQL!
-Apliquei conceitos de **consulta, filtragem, ordenação, junção e agregação** para extrair informações valiosas.
+Apliquei conceitos de **consulta, filtragem, ordenação, junção e agregação** para extrair informações.
